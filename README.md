@@ -1,12 +1,15 @@
-<img src="https://camo.githubusercontent.com/303fdac5fb1e3505dfcc5240e782d74f0839816af4572c548531665f356b4543/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d736f667426636f6c6f723d6175746f266865696768743d3130302673656374696f6e3d68656164657226746578743d7b27e29c8bf09f8fbb68656c6c6f253230776f726c6421277d3b26666f6e7453697a653d353026616e696d6174696f6e3d626c696e6b696e67" data-canonical-src="https://capsule-render.vercel.app/api?type=soft&amp;color=auto&amp;height=80&amp;section=header&amp;text=✋🏻Hello!;&amp;fontSize=40&amp;animation=blinking" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text='Hi&#160;there!&#160;✋🏻'&fontSize=50&animation=twinkling" />
 
-#### A front-end engineer with a deep understanding of<br/>user experience and to create user-friendly and<br/>visually appealing web interfaces.</h3>
 
-- 👨‍💻 Projects are available at: [https://yeonseung.vercel.app/](https://yeonseung.vercel.app/)
+#### A front-end engineer
+- with a deep understanding of user experience
+- who creates user-friendly and visually appealing web interfaces.
 
-- 📝 I regularly write articles on: [https://velog.io/@ysyoo719](https://velog.io/@ysyoo719)
+👨‍💻 Projects are available at: [https://yeonseung.vercel.app/](https://yeonseung.vercel.app/)
 
-- 📫 Email: **ysyoo719@gmail.com**
+📝 I regularly write articles on: [https://velog.io/@ysyoo719](https://velog.io/@ysyoo719)
+
+📫 Email: **ysyoo719@gmail.com**
 
 <p>
   
