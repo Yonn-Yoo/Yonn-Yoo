@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text='Hi&#160;there!&#160;✋🏻'&fontSize=50&animation=twinkling" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi&#160;there!&#160;✋🏻&fontSize=40&animation=twinkling&amp;fontAlignY=34" />
 
 #### A front-end engineer
 - with a deep understanding of user experience
